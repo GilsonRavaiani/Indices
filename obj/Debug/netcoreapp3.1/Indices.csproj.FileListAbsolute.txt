@@ -1,0 +1,13 @@
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.csprojAssemblyReference.cache
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.AssemblyInfoInputs.cache
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.AssemblyInfo.cs
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.csproj.CoreCompileInputs.cache
+C:\Balta_C#\Indices\bin\Debug\netcoreapp3.1\Indices.exe
+C:\Balta_C#\Indices\bin\Debug\netcoreapp3.1\Indices.deps.json
+C:\Balta_C#\Indices\bin\Debug\netcoreapp3.1\Indices.runtimeconfig.json
+C:\Balta_C#\Indices\bin\Debug\netcoreapp3.1\Indices.runtimeconfig.dev.json
+C:\Balta_C#\Indices\bin\Debug\netcoreapp3.1\Indices.dll
+C:\Balta_C#\Indices\bin\Debug\netcoreapp3.1\Indices.pdb
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.dll
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.pdb
+C:\Balta_C#\Indices\obj\Debug\netcoreapp3.1\Indices.genruntimeconfig.cache
